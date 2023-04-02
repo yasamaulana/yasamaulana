@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next Js**
 
-- 👀 I’m interested in **Front End** Development and **Back End** in Laravel
+- 👀 I’m interested in **Front End** Development and **Back End** in Laravel but not fullstack and wouldn't want to
 
 - 📫 How to reach me **yasamaulana1@gmail.com**
 
